@@ -1,0 +1,30 @@
+.nav-bar{
+  display: flex;
+}
+
+.logo{
+  width:40vw;
+}
+
+ul{
+  width: 60vw;
+  height:15vh;
+  display: flex;
+  list-style: none;
+  align-items: center;
+  justify-content: space-around;
+  z-index: 1500;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 1000;
+  font-size: large;
+  color: var(--dark-brown);
+}
+
+.active{
+  /* width: 100px;
+  height:50px; */
+  color: var(--white);
+  background: var(--dark-brown);
+  padding:5px 10px;
+  border-radius: 10px;
+}
