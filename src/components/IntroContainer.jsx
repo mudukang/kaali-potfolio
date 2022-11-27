@@ -22,12 +22,12 @@ const IntroContainer = () => {
       </div>
       <div className='intro-right'>
         <div className='main-title'>
-          <h1>GET UP. </h1>
-          <h2>GET BETTER.</h2>
-          <h2>GET FIT, EVERYDAY.</h2>
+          <h2>DON'T BE SCARED TO</h2>
+          <h1>LIFT HEAVY! </h1>
+          {/* <h2>GET FIT, EVERYDAY.</h2> */}
         </div>
         <div className="main-intro">
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo odit aperiam dolore suscipit exercitationem corporis quam voluptatem illo excepturi, rem molestias maiores.</p>
+          <p>The meaning of life is not simply to exist,<br></br> to survive, but to move ahead,<br></br> to go up,<br></br> to conquer. </p>
           <ColorButton variant="contained">GET IN TOUCH</ColorButton>
         </div>
       </div>

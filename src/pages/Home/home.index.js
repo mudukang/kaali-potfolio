@@ -1,5 +1,8 @@
+// import { Routes, Route } from "react-router-dom";
+
+import NavBar from '../../components/NavBar';
 import IntroContainer from '../../components/IntroContainer'
-import NavBar from './NavBar';
+// import Contacts from '../../components/Contacts'
 
 import React from 'react';
 

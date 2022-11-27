@@ -3,11 +3,11 @@
 }
 
 .logo{
-  width:40vw;
+  width:50vw;
 }
 
 ul{
-  width: 60vw;
+  width: 50vw;
   height:15vh;
   display: flex;
   list-style: none;
@@ -17,6 +17,11 @@ ul{
   font-family: 'Roboto', sans-serif;
   font-weight: 1000;
   font-size: large;
+  color: var(--dark-brown);
+}
+
+ul li a{
+  text-decoration: none;
   color: var(--dark-brown);
 }
 

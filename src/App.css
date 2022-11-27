@@ -57,3 +57,20 @@
   height: 10vh;
   background-color: white;
 }
+
+.details-container{
+  display: flex;
+  align-items: center;
+}
+
+.details-container ul{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.details-container ul li, .details-container ul li a{
+  color: var(--white);
+  font-weight: 100;
+  font-size: large;
+}
